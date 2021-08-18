@@ -1,5 +1,7 @@
 Hi there 👋 
 
+![Alt Text](https://i.pinimg.com/originals/78/fa/52/78fa5237184b4651b4277ba0452cfb92.gif)
+
 Hello~ I am Jenny -  A webdesigner student at NTNU from Norway <3 ✨
 
 - 🔭 I’m currently working on Html, css and Javascript
