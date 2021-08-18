@@ -7,5 +7,5 @@ Hello~ I am Jenny -  A webdesigner student at NTNU from Norway <3 ✨
 - 👯 I’m looking to collaborate on application ideas!
 - 📫 How to reach me: Email: thekitty@live.no
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=bear&show_icons=true)
 
