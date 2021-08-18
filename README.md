@@ -1,6 +1,8 @@
 Hi there 👋 
 
-![Alt Text](https://i.pinimg.com/originals/32/40/ab/3240abd20459fb3b8cc4ac6919dac2a4.gif)
+<img src="https://i.pinimg.com/originals/32/40/ab/3240abd20459fb3b8cc4ac6919dac2a4.gif" />
+
+
 
 Hello~ I am Jenny -  A webdesigner student at NTNU from Norway <3 ✨
 
