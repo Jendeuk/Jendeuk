@@ -9,7 +9,6 @@ Hi there 👋
 - 🔭 I’m currently working on Html, css and Javascript
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on application ideas!
-- 📫 How to reach me: Email: thekitty@live.no
-
+- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jendeuk&theme=omni&show_icons=true)
 
