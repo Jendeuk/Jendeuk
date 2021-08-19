@@ -10,7 +10,7 @@ Hi there 👋
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on application ideas!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jendeuk&theme=omni&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jendeuk&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jendeuk&theme=omni&show_icons=true) 
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jendeuk&theme=omni&show_icons=true)
 
