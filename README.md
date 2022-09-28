@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning Javascript, Linux and Bash
 - 👯 I’m looking to collaborate on application ideas!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jendeuk&theme=omni&show_icons=true)
-<br>
-![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Jendeuk&theme=omni)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jendeuk&theme=omni&show_icons=true)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jendeuk&theme=omni&show_icons=true)
+![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Jendeuk&theme=omni)
+
 
 
