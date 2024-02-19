@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Figma mockups
 - 🌱 I’m currently learning Javascript, Linux and Bash
 - 👯 I’m looking to collaborate on application ideas!
-- 📫 You can reach me at [Email](mailto:jenny@luongngo.no), and [LinkedIn](https://www.linkedin.com/in/jennynl/){:target="_blank" rel="noopener"}
+- 📫 You can reach me at [Email](mailto:jenny@luongngo.no), and [LinkedIn](https://www.linkedin.com/in/jennynl/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jendeuk&theme=omni&show_icons=true)
 <br>
