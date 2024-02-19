@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Javascript, Linux and Bash
 - 👯 I’m looking to collaborate on application ideas!
 - 📫 You can reach me at [Email](mailto:jenny@luongngo.no), and [LinkedIn](https://www.linkedin.com/in/jennynl/)
- [Link text](https://website-name.com)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jendeuk&theme=omni&show_icons=true)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jendeuk&theme=omni&show_icons=true)
